@@ -8,3 +8,4 @@
  
   - Includes PNG image of dashboard created via Tableau.
   - SQL scripts with comments used to gather/clean the proper data queries for the visualization.
+  - two datasets used, Vaccinations.xslx and Deaths.xslx
