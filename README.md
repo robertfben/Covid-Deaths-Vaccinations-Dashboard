@@ -3,6 +3,8 @@
 ## Summary
 
  - Created a Tableau Dashboard based on worldwide Covid Vaccination and Death Data. The purpose was to gain insights on the numbers from the beginning of Covid, March 2020, leading up to the end of 2021.
+ - Imported Datasets into MS SQL Server in order to query the proper data for the visualizations
+ - Performed Minor Data Cleaning and Querying within SQL
  
  ### Deliverables
  
