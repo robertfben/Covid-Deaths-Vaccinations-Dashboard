@@ -9,3 +9,4 @@
   - Includes PNG image of dashboard created via Tableau.
   - SQL scripts with comments used to gather/clean the proper data queries for the visualization.
   - two datasets used, Vaccinations.xslx and Deaths.xslx
+  - Link to Dashboard: https://public.tableau.com/views/CovidDashboard_16325898149720/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
